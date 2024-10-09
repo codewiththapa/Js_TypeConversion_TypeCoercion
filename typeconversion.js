@@ -37,17 +37,26 @@ DIffernces Between them ... "CORECION  VS  CONVERSION  VS  CASTING  "
 2:Type conversion and type casting are explicit; you, as the programmer, are deliberately converting one type to another.
 
 
-
 Summary:
-
-Term	Description	Example...
-
 Type Coercion	Implicit conversion done by JavaScript automatically when it needs values of the same type.	"5" + 2 results in "52"
 
 Type Conversion	Explicit conversion from one type to another done by the programmer using functions or methods.	Number("5") results in 5
 
 Type Casting	Essentially the same as type conversion, referring to explicit type conversion in JavaScript.	Boolean(1) results in true
-In JavaScript, type conversion and type casting are often used interchangeably, while type coercion is different because it happens automatically.       */
+In JavaScript, type conversion and type casting are often used interchangeably, while type coercion is different because it happens automatically.                     */  
+
+
+
+	                                                                 
+
+
+
+
+
+
+
+
+
 
 
 
