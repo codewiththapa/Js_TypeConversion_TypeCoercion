@@ -1,2 +1,2 @@
-typeconversion.html
-.gitignore
+*typeconversion.html
+*.gitignore
